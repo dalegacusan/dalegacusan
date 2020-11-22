@@ -8,7 +8,7 @@ Feel free to reach out in case you want to get in touch also.
 
 ## 🔧 Technologies and Tools
 
-![OS](https://img.shields.io/badge/OS-Windows-FAC924) ![Editor](https://img.shields.io/badge/Editor-VS%20Code-FAC924) ![Code](https://img.shields.io/badge/Code-Javascript-FAC924) ![Code](https://img.shields.io/badge/Code-React-FAC924) ![Tools](https://img.shields.io/badge/Video%20Editor-Premiere%20Pro-FAC924) ![Shell](https://img.shields.io/badge/Shell-Git%20Bash-FAC924) ![Tools](https://img.shields.io/badge/Photo%20Editor-Gimp-FAC924)
+![OS](https://img.shields.io/badge/OS-Windows-blue) ![Editor](https://img.shields.io/badge/Editor-VS%20Code-blue) ![Code](https://img.shields.io/badge/Code-Javascript-blue) ![Code](https://img.shields.io/badge/Code-React-blue) ![Tools](https://img.shields.io/badge/Video%20Editor-Premiere%20Pro-blue) ![Shell](https://img.shields.io/badge/Shell-Git%20Bash-blue) ![Tools](https://img.shields.io/badge/Photo%20Editor-Gimp-FAC924)
 
 ## My GitHub Stats
 
