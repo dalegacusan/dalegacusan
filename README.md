@@ -3,12 +3,12 @@
 My name is Dale Gacusan and I'm a Software Developer. I'm from the Philippines, and currently a College Sophomore. If you want to learn more about what I do, look at all the [awesome things](https://github.com/dalegacusan?tab=repositories) I'm building! 
 Feel free to reach out in case you want to get in touch also.
 
+## 💬 Get in touch
+* LinkedIn: https://www.linkedin.com/in/dalegacusan/
+
 ## 🔧 Technologies and Tools
 
 ![OS](https://img.shields.io/badge/OS-Windows-0084D5) ![Editor](https://img.shields.io/badge/Editor-VS%20Code-0084D5) ![Code](https://img.shields.io/badge/Code-Javascript-0084D5) ![Code](https://img.shields.io/badge/Code-MongoDB-0084D5) ![Code](https://img.shields.io/badge/Code-Express-0084D5) ![Code](https://img.shields.io/badge/Code-React-0084D5) ![Code](https://img.shields.io/badge/Code-NodeJS-0084D5) ![Shell](https://img.shields.io/badge/Shell-Git%20Bash-0084D5) ![Tools](https://img.shields.io/badge/Video%20Editor-Premiere%20Pro-0084D5) ![Tools](https://img.shields.io/badge/Photo%20Editor-Gimp-0084D5)
-
-## 💬 Get in touch
-* LinkedIn: https://www.linkedin.com/in/dalegacusan/
 
 ## My GitHub Stats
 
