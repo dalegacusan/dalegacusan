@@ -3,8 +3,8 @@
 My name is Dale Gacusan and I'm a Software Developer. I'm from the Philippines, and currently a College Sophomore. If you want to learn more about what I do, look at all the [awesome things](https://github.com/dalegacusan?tab=repositories) I'm building! 
 Feel free to reach out in case you want to get in touch also.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalegacusan/)
-[![Github](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/dalegacusan)
+💬 Get in touch
+* LinkedIn: https://www.linkedin.com/in/dalegacusan/
 
 ## 🔧 Technologies and Tools
 
