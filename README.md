@@ -8,7 +8,7 @@ Feel free to reach out in case you want to get in touch also.
 
 ## 🔧 Technologies and Tools
 
-![OS](https://img.shields.io/badge/OS-Windows-blue) ![Editor](https://img.shields.io/badge/Editor-VS%20Code-blue) ![Code](https://img.shields.io/badge/Code-Javascript-blue) ![Code](https://img.shields.io/badge/Code-React-blue) ![Tools](https://img.shields.io/badge/Video%20Editor-Premiere%20Pro-blue) ![Shell](https://img.shields.io/badge/Shell-Git%20Bash-blue) ![Tools](https://img.shields.io/badge/Photo%20Editor-Gimp-FAC924)
+![OS](https://img.shields.io/badge/OS-Windows-0084D5) ![Editor](https://img.shields.io/badge/Editor-VS%20Code-0084D5) ![Code](https://img.shields.io/badge/Code-Javascript-0084D5) ![Code](https://img.shields.io/badge/Code-React-0084D5) ![Tools](https://img.shields.io/badge/Video%20Editor-Premiere%20Pro-0084D5) ![Shell](https://img.shields.io/badge/Shell-Git%20Bash-0084D5) ![Tools](https://img.shields.io/badge/Photo%20Editor-Gimp-0084D5)
 
 ## My GitHub Stats
 
@@ -16,7 +16,7 @@ Feel free to reach out in case you want to get in touch also.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalegacusan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=FAC924&bg_color=1d1f21" />
 </a>-->
 <a href="https://github.com/dalegacusan/dalegacusan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dalegacusan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FAC924&bg_color=1d1f21" alt="Dale's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dalegacusan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0084D5&bg_color=1d1f21" alt="Dale's GitHub Stats" />
 </a>
 <!--
 <a href="https://https://github.com/dalegacusan/real-time-chat">
