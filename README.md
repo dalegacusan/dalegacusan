@@ -10,7 +10,7 @@ Feel free to reach out in case you want to get in touch also.
 
 ![OS](https://img.shields.io/badge/OS-Windows-0084D5) ![Editor](https://img.shields.io/badge/Editor-VS%20Code-0084D5) ![Code](https://img.shields.io/badge/Code-Javascript-0084D5) ![Code](https://img.shields.io/badge/Code-MongoDB-0084D5) ![Code](https://img.shields.io/badge/Code-Express-0084D5) ![Code](https://img.shields.io/badge/Code-React-0084D5) ![Code](https://img.shields.io/badge/Code-NodeJS-0084D5) ![Shell](https://img.shields.io/badge/Shell-Git%20Bash-0084D5) ![Tools](https://img.shields.io/badge/Video%20Editor-Premiere%20Pro-0084D5) ![Tools](https://img.shields.io/badge/Photo%20Editor-Gimp-0084D5)
 
-## My GitHub Stats
+## 📈 GitHub Stats
 
 <!--<a href="https://github.com/dalegacusan/dalegacusan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalegacusan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=FAC924&bg_color=1d1f21" />
