@@ -1,8 +1,3 @@
-# Hi there 👋
-
-My name is Dale Gacusan and I'm a Full Stack Developer from the <img src="https://www.flaticon.com/svg/static/icons/svg/197/197561.svg" width="13"/> **Philippines**. If you want to learn more about what I do, look at all the [awesome things](https://github.com/dalegacusan?tab=repositories) I'm building! 
-Feel free to reach out in case you want to get in touch also.
-
 <p>
 <a href="https://github.com/dalegacusan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dalegacusan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
